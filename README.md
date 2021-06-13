@@ -1,6 +1,6 @@
 # Lorenz-System
 
-*lorenz.m* contains the instructions and algorithm to find and compute the aproximate inestable periodic orbit of the Lorenz system for r = 18 and r = 21 (To compute different r's, define r and a good starting point x0).
+*lorenz.m* contains the instructions and algorithm to find and compute the aproximate inestable periodic orbit of the Lorenz system for r = 18 and r = 21 (To compute a different r, define r and a good starting point x0).
 
 Complementary functions:
 
